@@ -1,0 +1,16 @@
+{
+    "name": "test-jest-course",
+    "version": "1.0.0",
+    "description": "test-jest-course",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Vitali Semashkevich <vit-sema@yandex.ru>",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^27.4.1",
+        "jest": "^27.5.1"
+    }
+}
